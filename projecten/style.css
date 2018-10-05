@@ -1,0 +1,27 @@
+body {
+    background-color: #d9ddd7;
+}
+html{
+    font-family: Verdana;
+}
+.titel{
+    color: darkgreen;
+}
+p{
+    padding: 20px;
+    background: #6a7689;
+    color:#FFF;
+}
+.parragraaf2{
+    color: yellow;
+    border:2px solid yellow;
+    margin: 0% 20%;
+    text-align: center;
+}
+
+a{
+    color: #FFF;
+}
+a:hover{
+    color: #6df469;
+}

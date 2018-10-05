@@ -1,0 +1,28 @@
+.table {
+    border:1px solid black;
+    border-spacing:0px;
+    width: 100%;
+}
+.body {
+    background-color: #c7ced8;
+}
+th, td {
+    border:1px solid black;
+    width: 10%;
+    text-align: center;
+}
+.tr:nth-child(odd){
+    background-color:#4f8cef ;
+    color: white;
+}
+.tr:nth-child(even){
+    background-color:#6facff;
+    color: white;
+}
+.naam{
+    background-color:#27426d;
+    color: white;
+}
+body {
+    font-family: Arial;
+}

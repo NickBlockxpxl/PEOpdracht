@@ -1,0 +1,14 @@
+body {
+    background-color: #d9ddd7;
+             }
+html{
+    font-family: Verdana;
+}
+.titel{
+    color: darkgreen;
+}
+p{
+    padding: 20px;
+    background: #6a7689;
+    color:#FFF;
+}

@@ -1,0 +1,25 @@
+body {
+    font-family: Geneva;
+    background-color: #6a7689;
+}
+.hover:hover {
+    color: white;
+    font-weight: bold;
+}
+.festival:hover {
+    color: white;
+    font-weight: bold;
+}
+.festival {
+    border: #6df469 solid 1px;
+    margin-left: 2%;
+}
+.border:hover{
+    color: white;
+    font-weight: bold;
+}
+ .color{
+     border: #4f8cef solid 2px;
+    background-color: darkgreen;
+     margin-bottom: 5%;
+}
